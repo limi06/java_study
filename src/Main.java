@@ -4,5 +4,8 @@ public class Main {
     }
     boolean aa = false;
 
+    public void  testPlay() {
+        System.out.println("test play");
+    }
 
 }
